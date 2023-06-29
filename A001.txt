@@ -1,6 +1,6 @@
 test
 hello
 good bye
-
+* edit
 test fetch
 before merge
